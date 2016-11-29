@@ -1,4 +1,4 @@
-#get list of filenames for all mp4 files
+#get list of filenames for all mp4 files in current directory
 import glob, os
 os.chdir(".")
 
